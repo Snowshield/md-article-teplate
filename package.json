@@ -1,0 +1,12 @@
+{
+  "name": "pandocker",
+  "version": "1.0.0",
+  "description": "node api for pandoc",
+  "main": "index.coffee",
+  "scripts": {
+    "start":"coffee index.coffee",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "'Nikita <'xenuxstyler@gmail.com'>",
+  "license": "MIT"
+}
